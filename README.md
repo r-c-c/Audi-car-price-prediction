@@ -1,5 +1,5 @@
 # Audi Used Car Price Prediction
-Audi used car price redictor model based on input features
+Audi used car price predictor model based on input features
 
 # Business Problem
 <br>• This app addresses the need for guidance and assistance in determining the fair market value of used cars.
